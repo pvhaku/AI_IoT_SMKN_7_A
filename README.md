@@ -1,1 +1,4 @@
-"# AI_IoT_SMKN_7_A" 
+ # AI_IoT_SMKN7_A
+
+
+ ### dev2-Belajar koding 
